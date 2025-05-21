@@ -2,6 +2,6 @@
 Android App Development internship assignment
 
 ## 📸 Screenshot
-please find screenshot at give location:
+please find screenshot at given location:
    screenshots/profilescreen_screenshot.png
 
